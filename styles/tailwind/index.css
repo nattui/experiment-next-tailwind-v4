@@ -1,8 +1,12 @@
+@import "./aspect.css";
+@import "./blur.css";
 @import "./breakpoint.css";
 @import "./colors.css";
 @import "./container.css";
+@import "./drop-shadow.css";
 @import "./font-weight.css";
 @import "./leading.css";
+@import "./perspective-dramatic.css";
 @import "./radius.css";
 @import "./shadow.css";
 @import "./spacing.css";
