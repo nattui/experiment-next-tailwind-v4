@@ -8,7 +8,7 @@ export default function Home() {
           Hello World
         </h1>
 
-        <div className="text-128/138 font-500">Pizza</div>
+        <div className="text-128 font-500">Pizza</div>
 
         <div className="bg-white w-32 blur-0 aspect-1-1 inset-shadow-3 drop-shadow-4 inset-shadow-indigo-500" />
 

@@ -1,5 +1,6 @@
 @theme {
   --leading-*: initial;
+  --leading-100: 1;
   --leading-125: 1.25;
   --leading-138: 1.375;
   --leading-150: 1.5;
