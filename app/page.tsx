@@ -12,7 +12,7 @@ export default function Home() {
           Pizza
         </div>
 
-        <div className="border border-solid border-red-500 bg-green-500 w-32 blur-0" />
+        <div className="bg-white w-32 blur-0 aspect-1-1 inset-shadow-3 drop-shadow-4 inset-shadow-indigo-500" />
 
         <Image
           className="dark:invert"
