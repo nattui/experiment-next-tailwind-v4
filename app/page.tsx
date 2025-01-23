@@ -4,9 +4,15 @@ export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start text-blue-800 cookie:text-red-800 cookie">
-        <h1 className="text-12 font-500 tracking-6">Hello World</h1>
+        <h1 className="text-12 font-500 tracking-6 @320:text-32">
+          Hello World
+        </h1>
 
-        <div className="bg-red-500 rounded-ee-full w-10 h-10">Pizza</div>
+        <div className="bg-red-500 rounded-none w-10 h-10 640:bg-green-500">
+          Pizza
+        </div>
+
+        <div className="border border-solid border-red-500 bg-green-500 w-lvw h-10" />
 
         <Image
           className="dark:invert"
