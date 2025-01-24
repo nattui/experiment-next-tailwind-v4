@@ -1,5 +1,5 @@
 @import "tailwindcss";
-@import "./tailwind/index.css";
+@import "@nattui/tailwind-tokenless";
 
 html {
   font-size: 10px;

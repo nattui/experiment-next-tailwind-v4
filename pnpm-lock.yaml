@@ -8,8 +8,11 @@ importers:
 
   .:
     dependencies:
+      '@nattui/tailwind-tokenless':
+        specifier: 0.0.0-alpha.1
+        version: 0.0.0-alpha.1
       next:
-        specifier: 15.1.6
+        specifier: ^15.1.6
         version: 15.1.6(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       react:
         specifier: ^19.0.0
@@ -37,7 +40,7 @@ importers:
         specifier: ^9.18.0
         version: 9.18.0(jiti@2.4.2)
       eslint-config-next:
-        specifier: 15.1.6
+        specifier: ^15.1.6
         version: 15.1.6(eslint@9.18.0(jiti@2.4.2))(typescript@5.7.3)
       postcss:
         specifier: ^8.5.1
@@ -216,6 +219,9 @@ packages:
     engines: {node: ^18.17.0 || ^20.3.0 || >=21.0.0}
     cpu: [x64]
     os: [win32]
+
+  '@nattui/tailwind-tokenless@0.0.0-alpha.1':
+    resolution: {integrity: sha512-dkxkjDD40jVKTc69pljXJ0G+A/WhensWuCMeJWpkbwXyd+uuYwPOxbAQYLmI/2W3hF2X3t5I+YZfxBROmFogGQ==}
 
   '@next/env@15.1.6':
     resolution: {integrity: sha512-d9AFQVPEYNr+aqokIiPLNK/MTyt3DWa/dpKveiAaVccUadFbhFEvY6FXYX2LJO2Hv7PHnLBu2oWwB4uBuHjr/w==}
@@ -1711,6 +1717,8 @@ snapshots:
 
   '@img/sharp-win32-x64@0.33.5':
     optional: true
+
+  '@nattui/tailwind-tokenless@0.0.0-alpha.1': {}
 
   '@next/env@15.1.6': {}
 
