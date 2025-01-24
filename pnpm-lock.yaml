@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@nattui/tailwind-tokenless':
-        specifier: 0.0.0-alpha.5
-        version: 0.0.0-alpha.5
+        specifier: 0.0.0-alpha.10
+        version: 0.0.0-alpha.10
       next:
         specifier: ^15.1.6
         version: 15.1.6(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
@@ -220,8 +220,8 @@ packages:
     cpu: [x64]
     os: [win32]
 
-  '@nattui/tailwind-tokenless@0.0.0-alpha.5':
-    resolution: {integrity: sha512-oEKSMUE35ml9w85q/jwFgL3+P8rqIiXfeKkwRYszNnRv7BcxloqnT21TWkmJmVtpriZ3dMZBTzC7RvVjvpJ2Mw==}
+  '@nattui/tailwind-tokenless@0.0.0-alpha.10':
+    resolution: {integrity: sha512-t74RpKPY1jyf4Tai/FT1wBHuOao9bG3IihgiREn9+oEkvzfsITJliMG739o6z4QL/nHkg7Sb7Te0F+rN/lRz0Q==}
 
   '@next/env@15.1.6':
     resolution: {integrity: sha512-d9AFQVPEYNr+aqokIiPLNK/MTyt3DWa/dpKveiAaVccUadFbhFEvY6FXYX2LJO2Hv7PHnLBu2oWwB4uBuHjr/w==}
@@ -1718,7 +1718,7 @@ snapshots:
   '@img/sharp-win32-x64@0.33.5':
     optional: true
 
-  '@nattui/tailwind-tokenless@0.0.0-alpha.5': {}
+  '@nattui/tailwind-tokenless@0.0.0-alpha.10': {}
 
   '@next/env@15.1.6': {}
 
