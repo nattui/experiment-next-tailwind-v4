@@ -6,7 +6,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@nattui/tailwind-tokenless": "0.0.0-alpha.1",
+    "@nattui/tailwind-tokenless": "0.0.0-alpha.2",
     "next": "^15.1.6",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
