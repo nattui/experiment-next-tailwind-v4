@@ -6,20 +6,9 @@ export default function Home() {
           Hello World
         </h1>
 
-        <div className="text-128 font-500 text-gray-12">Pizza</div>
+        <div className="text-128/100 font-500 text-gray-12">Pizza</div>
 
         <div className="bg-white w-32 blur-0 aspect-1-1 inset-shadow-3 drop-shadow-4 inset-shadow-primary-9" />
-
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
       </main>
     </div>
   );
